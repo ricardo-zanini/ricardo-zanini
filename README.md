@@ -3,7 +3,7 @@
 <img padding="20px" width="100px" src="https://github.com/user-attachments/assets/da406eb7-28c0-408c-9259-6ede73587465"/>
 <h1></h1>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-zanini&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true&hide_border=true)](https://github.com/ricardo-zanini)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-zanini&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true&hide_border=true&hide_title=true&text_color=785a94)](https://github.com/ricardo-zanini)
 
 </div>
 <!--
