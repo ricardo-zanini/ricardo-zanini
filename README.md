@@ -1,6 +1,10 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=ricardo-zanini&theme=algolia&show_icons=true)](https://github.com/ricardo-zanini)  
-  
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-zanini&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/ricardo-zanini)
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ricardo-zanini&theme=transparent&show_icons=true&layout=compact)](https://github.com/ricardo-zanini)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-zanini&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=transparent&show_icons=true)](https://github.com/ricardo-zanini)
+
+</div>
 <!--
 **ricardo-zanini/ricardo-zanini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
